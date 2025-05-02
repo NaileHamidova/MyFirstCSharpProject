@@ -1,0 +1,15 @@
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.AssemblyInfoInputs.cache
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.AssemblyInfo.cs
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.csproj.CoreCompileInputs.cache
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.sourcelink.json
+/Users/nailehamidova/Desktop/_C#_/datetime/bin/Debug/net9.0/datetime
+/Users/nailehamidova/Desktop/_C#_/datetime/bin/Debug/net9.0/datetime.deps.json
+/Users/nailehamidova/Desktop/_C#_/datetime/bin/Debug/net9.0/datetime.runtimeconfig.json
+/Users/nailehamidova/Desktop/_C#_/datetime/bin/Debug/net9.0/datetime.dll
+/Users/nailehamidova/Desktop/_C#_/datetime/bin/Debug/net9.0/datetime.pdb
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.dll
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/refint/datetime.dll
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.pdb
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/datetime.genruntimeconfig.cache
+/Users/nailehamidova/Desktop/_C#_/datetime/obj/Debug/net9.0/ref/datetime.dll

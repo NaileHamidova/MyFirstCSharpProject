@@ -1,0 +1,15 @@
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.AssemblyInfoInputs.cache
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.AssemblyInfo.cs
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.csproj.CoreCompileInputs.cache
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.sourcelink.json
+/Users/nailehamidova/Desktop/_C#_/switch/bin/Debug/net9.0/switch
+/Users/nailehamidova/Desktop/_C#_/switch/bin/Debug/net9.0/switch.deps.json
+/Users/nailehamidova/Desktop/_C#_/switch/bin/Debug/net9.0/switch.runtimeconfig.json
+/Users/nailehamidova/Desktop/_C#_/switch/bin/Debug/net9.0/switch.dll
+/Users/nailehamidova/Desktop/_C#_/switch/bin/Debug/net9.0/switch.pdb
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.dll
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/refint/switch.dll
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.pdb
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/switch.genruntimeconfig.cache
+/Users/nailehamidova/Desktop/_C#_/switch/obj/Debug/net9.0/ref/switch.dll

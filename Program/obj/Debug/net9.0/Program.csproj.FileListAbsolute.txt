@@ -1,0 +1,15 @@
+/Users/nailehamidova/Desktop/_C#_/Program/bin/Debug/net9.0/Program
+/Users/nailehamidova/Desktop/_C#_/Program/bin/Debug/net9.0/Program.deps.json
+/Users/nailehamidova/Desktop/_C#_/Program/bin/Debug/net9.0/Program.runtimeconfig.json
+/Users/nailehamidova/Desktop/_C#_/Program/bin/Debug/net9.0/Program.dll
+/Users/nailehamidova/Desktop/_C#_/Program/bin/Debug/net9.0/Program.pdb
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.AssemblyInfoInputs.cache
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.AssemblyInfo.cs
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.csproj.CoreCompileInputs.cache
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.dll
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/refint/Program.dll
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.pdb
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.genruntimeconfig.cache
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/ref/Program.dll
+/Users/nailehamidova/Desktop/_C#_/Program/obj/Debug/net9.0/Program.sourcelink.json
